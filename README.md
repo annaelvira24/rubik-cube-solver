@@ -17,7 +17,7 @@ Pada tugas ini, kalian akan membuat program untuk menyelesaikan kubus rubik 3x3x
 Anda bebas menggunakan pustaka maupun referensi apapun untuk mengerjakan tugas, kecuali kode/pustaka jadi yang menyelesaikan rubik.
 
 
-## Spesifikasi Bonus (1000 Poin)
+## Spesifikasi Bonus (500 Poin)
 <i>Note: sebelum mengerjakan bonus, pastikan semua spesifikasi wajib sudah terpenuhi.</i>
 
 User dapat melakukan input customized konfigurasi awal warna rubik yang akan di-solve melalui interaksi antarmuka dengan program. 
