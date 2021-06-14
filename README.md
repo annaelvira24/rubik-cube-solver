@@ -7,7 +7,7 @@ Kubus rubik merupakan permainan teka-teki mekanik yang sangat populer di seluruh
 Pada tugas ini, kalian akan membuat program untuk menyelesaikan kubus rubik 3x3x3 dan menampilkan langkah-langkah penyelesaiannya.
 
 
-## Spesifikasi Wajib (3000 Poin)
+## Spesifikasi Wajib (3500 Poin)
 1. Program dibuat wajib <b>berbasis web</b>. Namun framework dan bahasa yang digunakan bebas.
 2. Program menerima input yang merepresentasikan konfigurasi warna pada kubus rubik, format dibebaskan. Sebagai contoh, input tersebut dapat berupa urutan huruf yang merepresentasikan warna kotak 1x1 pada kubus rubik.
 3. Program mencari langkah untuk menyelesaikan kubus rubik 3x3x3. Algoritma yang digunakan bebas namun menjadi salah satu komponen penilaian. 
