@@ -43,6 +43,6 @@ Selain itu, program juga dapat memvalidasi apakah konfigurasi tersebut valid (so
 * Cara penggunaan program
 * Strategi pencarian solusi yang digunakan dan alasan penggunaannya secara lengkap, termasuk kompleksitas algoritmanya
 * Referensi, framework, dan library yang membantu Anda dalam mengerjakan tugas ini beserta alasan penggunaannya.
-5. Jika sudah selesai, silakan menghubungi kontak berikut untuk dilakukan penilaian.
-id line: 
+5. Jika sudah selesai, silakan menghubungi kontak berikut untuk penilaian. <br/>
+id line: <b>n4_elvira</b> atau <b>padilrf</b>
 
